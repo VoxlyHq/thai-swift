@@ -1,0 +1,4 @@
+module LibThai {
+    header "/opt/homebrew/Cellar/libthai/0.1.29/include/thai/thbrk.h"
+    export *
+}
